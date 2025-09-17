@@ -17,7 +17,7 @@ These screenshots provide proof that the API is functioning correctly. The `POST
 
 **Successful POST Request**
 
-This command-line or Insomnia screenshot shows the `POST` request and the successful `200 OK` response from the API.
+This Insomnia (curl client like Postman) screenshot shows the `POST` request and the successful `200 OK` response from the API.
 
 ![](post_request_272.PNG)
 
