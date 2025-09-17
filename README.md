@@ -9,7 +9,7 @@ This project uses Amazon Web Services (AWS) to create a basic serverless web app
 
 This screenshot shows the `StudentRecords` DynamoDB table in the AWS Management Console, confirming that the data from the `POST` request has been successfully written to the database.
 
-!(<dynamodbtable_272.png>)
+![](dynamodbtable_272.png)
 
 #### 2. API Testing Screenshots
 
@@ -19,13 +19,13 @@ These screenshots provide proof that the API is functioning correctly. The `POST
 
 This command-line or Insomnia screenshot shows the `POST` request and the successful `200 OK` response from the API.
 
-!(<post_request_272.png>)
+![](post_request_272.png)
 
 **Successful GET Request**
 
 This screenshot shows the `GET` request with a query parameter and the successful `200 OK` response, confirming that the data was retrieved from the database.
 
-!(<get_request_272.png>)
+![](get_request_272.png)
 
 #### 3. Reflection
 
